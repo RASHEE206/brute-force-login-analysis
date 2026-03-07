@@ -9,7 +9,7 @@ A beginner-friendly cybersecurity project that generates a realistic authenticat
 ```
 project-folder/
 │
-├──   ← Python script that generates the dataset
+├── generate_logs.py   ← Python script that generates the dataset
 ├── login_logs.csv     ← Output CSV file (created when you run the script)
 └── README.md          ← This file
 ```
